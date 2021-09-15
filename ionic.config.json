@@ -1,0 +1,8 @@
+{
+  "name": "Tally Timer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "da25c6eb"
+}
